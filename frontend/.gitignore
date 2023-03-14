@@ -27,3 +27,4 @@ yarn-error.log*
 **/backend/.myenv/
 **backend/.myenv/
 **.myenv
+backend/.myenv/
