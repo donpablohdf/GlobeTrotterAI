@@ -22,8 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/backend/.myenv
-backend/.myenv
-/backend/.myenv/
-backend/.myenv/
-.myenv
+**/backend/.myenv
+**backend/.myenv
+**/backend/.myenv/
+**backend/.myenv/
+**.myenv
